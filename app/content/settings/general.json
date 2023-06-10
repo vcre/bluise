@@ -2,8 +2,8 @@
   "title": "Thủ Đức City",
   "titleTemplate": "| Ngạo nghễ",
   "welcomeText": "# Yo, what's up Thủ Đức.\n\ncơ hội bùng nổ cho doanh nghiệp vùng ven",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "logo": "/images/uploads/icon.png",
+  "icon": "/images/uploads/icon.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
