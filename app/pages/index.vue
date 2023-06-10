@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://static.thichcay.com/thuduc.jpg"
+          src="https://i.vgt.vn/2023/1/25/loc-fuho-tu-chang-phu-ho-den-youtuber-xay-duoc-nha-mua-duoc-xe-lan-nao-tu-thien-cung-gap-bien-9fb-6829557.jpg"
         />
       </div>
     </div>
